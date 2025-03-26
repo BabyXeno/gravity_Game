@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Gravity Platformer Extension",
+  "name": "Gravity Platform Extension",
   "author": "BabyXeno",
   "version": "1.0",
-  "description": "Play the gravity platformer game in your browser!",
+  "description": "Embark on a gravity-bending journey where strategic jumps and skillful platforming are your keys to completing each unique level!",
   "permissions": ["storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
